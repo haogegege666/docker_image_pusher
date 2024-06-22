@@ -1,5 +1,5 @@
 
-
+--platform=linux/arm64  kibana:7.12.1
 --platform=linux/arm64  elasticsearch:7.12.1
 
 #支持指定架构
